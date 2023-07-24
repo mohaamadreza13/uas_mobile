@@ -28,6 +28,6 @@
 
 
 
- ## Selesai
+ ## Sekian
 
  ### TERIMA KASIH
