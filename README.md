@@ -1,9 +1,9 @@
  # UAS PEMROGRAMAN MOBILE
 
- **Nama           : Reza Tariki Taser** <br>
- **NIM            : 312010265** <br>
- **Kelas          : TI.20.A2** <br>
- **Mata Kuliah    : Pemrograman Mobile** <br>
+| Reza Tariki Taser          | 312010265             |
+|----------------------------|-----------------------|
+|  TI.20.A.2                 | PEMROGRAMAN MOBILE    |
+| UJIAN AKHIR SEMESTER       | MENAMPILKAN DATA API  |
 
  ## Membuat Tampilan dari Api Pahlawan Indonesia Menggunakan Framework Flutter
 
