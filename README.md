@@ -21,10 +21,14 @@
 
  ![foto](img/Pahlawan%20Indonesia.png) <br>
 
+ **Diatas adalah contoh tampilan nama nama pahlawan pada halaman ini terdapat banyak sekali nama nama pahlawan indonesia**
+
 
  ### 2. Output Program Halaman Detail List
 
  ![foto](img/Pahlawan%20indonesia%202.png) <br>
+
+ **Diatas adalah contoh tampilan biodata dari salah satu nama pahlawan indonesia, yaitu Abdul Malik Karim Amrullah** 
 
 
 
