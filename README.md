@@ -5,13 +5,29 @@
 |  TI.20.A.2                 | PEMROGRAMAN MOBILE    |
 | UJIAN AKHIR SEMESTER       | MENAMPILKAN DATA API  |
 
- ## Membuat Tampilan dari Api Pahlawan Indonesia Menggunakan Framework Flutter
+ ## Membuat Tampilan dari API Pahlawan Indonesia Menggunakan Framework Flutter
 
- ### Output Program Halaman Awal
+ **Disini saya menggunakan data ***API*** dari github ***https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA#informasi-umum*** sementara link source API nya saya akan lampirkan**
+
+ **Source Link API :** **: https://indonesia-public-static-api.vercel.app/api/heroes** 
+
+ **Yaitu Link API ****Saya Membuat Beberapa Daftar Nama Pahlawan Indonesia**** , diatas adalah Source Link API nya**
+
+ Disini saya menggunakan *Framework Flutter* untuk membuat aplikasi *Mobile*
+
+ Berikut adalah Tampilan dari Aplikasi API  **Daftar Nama Pahlawan Indonesia**
+
+ ### 1. Output Program Halaman Awal
 
  ![foto](img/Pahlawan%20Indonesia.png) <br>
 
 
- ### Output Program Halaman Detail List
+ ### 2. Output Program Halaman Detail List
 
  ![foto](img/Pahlawan%20indonesia%202.png) <br>
+
+
+
+ ## Selesai
+
+ ### TERIMA KASIH
